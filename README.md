@@ -2,9 +2,9 @@
 
 **<p align="center">workbunny/cron-parser</p>**
 
-**<p align="center">🐇 Simple corn expression parser. 🐇</p>**
+**<p align="center">🐇 Simple cron expression parser. 🐇</p>**
 
-# Simple corn expression parser.
+# Simple cron expression parser.
 
 [![Build Status](https://github.com/workbunny/cron-parser/actions/workflows/CI.yml/badge.svg)](https://github.com/workbunny//cron-parser/actions)
 [![Codecov](https://codecov.io/github/workbunny/cron-parser/branch/main/graph/badge.svg)](https://codecov.io/github/workbunny/cron-parser)
